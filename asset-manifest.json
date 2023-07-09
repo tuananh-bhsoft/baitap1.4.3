@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/baitap1.4.3/static/css/main.05b79e29.css",
-    "main.js": "/baitap1.4.3/static/js/main.bf742f28.js",
+    "main.css": "/baitap1.4.3/static/css/main.23bd90c4.css",
+    "main.js": "/baitap1.4.3/static/js/main.d286755f.js",
     "static/media/SlideBackground.png": "/baitap1.4.3/static/media/SlideBackground.e19dfbfac0538b2b4745.png",
     "static/media/BG2.png": "/baitap1.4.3/static/media/BG2.68208f94c7cedc3854bf.png",
     "static/media/BG1.png": "/baitap1.4.3/static/media/BG1.d4bd2ee33b1de34e667a.png",
@@ -31,11 +31,11 @@
     "static/media/FacebookLight.svg": "/baitap1.4.3/static/media/FacebookLight.f863f7bf4d1cfd689812a224889fde42.svg",
     "static/media/PolygonPlay.svg": "/baitap1.4.3/static/media/PolygonPlay.428b5fc5e9abd9e8985628bf75445123.svg",
     "static/media/Bullet.svg": "/baitap1.4.3/static/media/Bullet.3fe7f05d638e93b03bd0fe61dea5498f.svg",
-    "main.05b79e29.css.map": "/baitap1.4.3/static/css/main.05b79e29.css.map",
-    "main.bf742f28.js.map": "/baitap1.4.3/static/js/main.bf742f28.js.map"
+    "main.23bd90c4.css.map": "/baitap1.4.3/static/css/main.23bd90c4.css.map",
+    "main.d286755f.js.map": "/baitap1.4.3/static/js/main.d286755f.js.map"
   },
   "entrypoints": [
-    "static/css/main.05b79e29.css",
-    "static/js/main.bf742f28.js"
+    "static/css/main.23bd90c4.css",
+    "static/js/main.d286755f.js"
   ]
 }

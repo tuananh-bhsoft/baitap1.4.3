@@ -36,7 +36,7 @@ const StyledContactUs = styled.div`
       }
 
       textarea {
-        ${tw`resize-y`}
+        ${tw`resize-none`}
       }
 
       .name {
